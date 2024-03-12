@@ -1,0 +1,220 @@
+{
+  "mainCategories": [
+    {
+      "id": 1,
+      "percent": 6,
+      "title": "Beverage",
+      "image": "/SwiperImages/SwiperImg1.svg",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "percent": 10,
+      "title": "Nuts & Snacks",
+      "image": "/SwiperImages/SwiperImg2.svg",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "percent": 6,
+      "title": "Fresh Vegetables",
+      "image": "/SwiperImages/SwiperImg3.svg",
+      "link": ""
+    },
+    {
+      "id": 4,
+      "percent": 25,
+      "title": "Fresh Fruits",
+      "image": "/SwiperImages/SwiperImg4.svg",
+      "link": ""
+    },
+    {
+      "id": 5,
+      "percent": 15,
+      "title": "Eggs & Dairy",
+      "image": "/SwiperImages/SwiperImg5.svg",
+      "link": ""
+    }
+  ],
+  "categories": [
+    { "id": 1, "image": "/Categories/cat1.svg", "link": "" },
+    { "id": 2, "image": "/Categories/cat2.svg", "link": "" },
+    { "id": 3, "image": "/Categories/cat3.svg", "link": "" },
+    { "id": 4, "image": "/Categories/cat4.svg", "link": "" },
+    { "id": 5, "image": "/Categories/cat5.svg", "link": "" },
+    { "id": 6, "image": "/Categories/cat6.svg", "link": "" },
+    { "id": 7, "image": "/Categories/cat3.svg", "link": "" }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Fresh organic apricot",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Fresh organic apricot",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Cucumber",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro3.svg"
+    },
+    {
+      "id": 4,
+      "title": "Raw broccoli",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro4.svg"
+    },
+    {
+      "id": 5,
+      "title": "Hazelnuts filbert nut",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro5.svg"
+    },
+    {
+      "id": 6,
+      "title": "Organic quince",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Products/Pro3.svg"
+    }
+  ],
+
+  "Offers": [
+    {
+      "id": 1,
+      "image": "/Offers/Offers1.svg",
+      "title": "Daily Essentials",
+      "precent": "20% off Everyday"
+    },
+    {
+      "id": 2,
+      "image": "/Offers/Offers2.svg",
+      "title": "GET UP TO",
+      "precent": "30% Off"
+    },
+    {
+      "id": 3,
+      "image": "/Offers/Offers3.svg",
+      "title": "Special Discount",
+      "precent": "For All Items"
+    }
+  ],
+  "newProduct": [
+    {
+      "id": 1,
+      "title": "Red apple",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Capsicum-green",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Pear fruit ",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct3.svg"
+    },
+    {
+      "id": 4,
+      "title": "Blueberry",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct4.svg"
+    },
+    {
+      "id": 5,
+      "title": "Fresh raspberry",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct5.svg"
+    },
+    {
+      "id": 6,
+      "title": "Fresh raspberry",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/NewProduct/NewProduct3.svg"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Ginger ",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Two fresh figs",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product2.svg"
+    },
+    {
+      "id": 3,
+      "title": "Strawberry",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product3.svg"
+    },
+    {
+      "id": 4,
+      "title": "Eggplant",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product4.svg"
+    },
+    {
+      "id": 5,
+      "title": "Egg",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product5.svg"
+    },
+    {
+      "id": 6,
+      "title": "Strawberry",
+      "discount": 15,
+      "price": 12,
+      "inStock": true,
+      "image": "/Product/Product3.svg"
+    }
+  ]
+}
